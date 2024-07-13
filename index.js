@@ -1,17 +1,3 @@
-// var numberofDrumber = document.querySelectorAll(".drum").length;
-
-// for (let index = 0; index < numberofDrumber; index++) {
-//     document.querySelectorAll(".drum")[index].addEventListener("click", function () {
-//         alert("I got clicked");
-//     });
-
-// }
-
-// // alert("Hello");
-
-// drum button list
-
-
 var numberofDrumButton =  document.querySelectorAll(".drum").length;
 
 for (let index = 0; index < numberofDrumButton; index++) {
